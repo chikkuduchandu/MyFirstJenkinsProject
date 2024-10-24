@@ -7,7 +7,7 @@ public class LibrarySystem {
         String choice;
 
         // Adding some books to the library
-        library.addBook(new Book("The Great Gatsby", "F. Scott Fitzgerald"));
+        library.addBook(new Book("The Great chandu Gatsby", "F. Scott Fitzgerald"));
         library.addBook(new Book("1984", "George Orwell"));
         library.addBook(new Book("To Kill a Mockingbird", "Harper Lee"));
 
